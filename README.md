@@ -1,2 +1,3 @@
 # bookbot
-Counts each letter in the text file
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
